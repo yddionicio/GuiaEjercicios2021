@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.deps.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.runtimeconfig.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.dll
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\bin\Debug\netcoreapp3.1\GuiaEJercicios.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.dll
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\GuiaEJercicios\obj\Debug\netcoreapp3.1\GuiaEJercicios.genruntimeconfig.cache

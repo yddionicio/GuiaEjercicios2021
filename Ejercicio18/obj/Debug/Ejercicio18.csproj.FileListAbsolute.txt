@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.pdb

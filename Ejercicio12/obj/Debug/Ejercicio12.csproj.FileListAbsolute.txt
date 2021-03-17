@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio12\obj\Debug\Ejercicio12.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.deps.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.runtimeconfig.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.dll
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\bin\Debug\netcoreapp3.1\consolita.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.dll
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\consolita\obj\Debug\netcoreapp3.1\consolita.genruntimeconfig.cache
