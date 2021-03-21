@@ -44,7 +44,7 @@ namespace Ejercicio17
             }
             else
             {
-                for (int f = 0; f < gasto; f++)
+                for (int f = 0; f < this.tinta; f++)
                 {
                     dibujo += "*";
                 }

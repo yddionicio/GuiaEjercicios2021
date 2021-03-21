@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D9D9DE8-0887-4DAC-B627-76937C4251B9}</ProjectGuid>
+    <ProjectGuid>{8A4357B9-27F7-4CFF-BD04-891081325148}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio18</RootNamespace>
-    <AssemblyName>Ejercicio18</AssemblyName>
+    <RootNamespace>Ejercicio19</RootNamespace>
+    <AssemblyName>Ejercicio19</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ejercicio18.cs" />
+    <Compile Include="Ejercicio19.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sumador.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Geometría\Geometría.csproj">
-      <Project>{4751ef65-ea8e-473e-adf6-d9cf36945b08}</Project>
-      <Name>Geometría</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
