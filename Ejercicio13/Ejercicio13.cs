@@ -26,6 +26,7 @@ namespace Ejercicio13
 
             //Console.WriteLine(string.Format("El numero entero del binario {0} es {1}", binario, Conversor.BinarioDecimal(binario)));
             //Console.ReadKey();
+
         }
     }
 }
