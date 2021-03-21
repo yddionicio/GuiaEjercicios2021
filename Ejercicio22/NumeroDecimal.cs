@@ -15,6 +15,10 @@ namespace Ejercicio22
         {
             this.numero = aux;
         }
+        //public string DecimalABinario()
+        //{
+        //    return Conversor.DecimalBinario((int)this.numero);
+        //}
 
         public static explicit operator double(NumeroDecimal d)
         {

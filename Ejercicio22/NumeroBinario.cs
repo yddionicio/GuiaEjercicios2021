@@ -14,13 +14,17 @@ namespace Ejercicio22
         {
             this.numero = aux;
         }
+        //public double BinarioADecimal()
+        //{
+        //    return Conversor.BinarioDecimal(this.numero);
+        //}
 
-        public static explicit operator string (NumeroBinario b)
+        public static explicit operator string(NumeroBinario b)
         {
             return b.numero;
         }
 
-        public static implicit operator NumeroBinario (string b)
+        public static implicit operator NumeroBinario(string b)
         {
             return new NumeroBinario(b);
         }
